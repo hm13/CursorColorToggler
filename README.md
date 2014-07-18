@@ -1,10 +1,10 @@
 # なんこれ
-ibusのON/OFFにしたがってカーソルの色を変えます
+ibusのON/OFFにしたがってカーソルの色を変えます<br/>
 デフォルトでは、OFFで水色、ONでピンクになります
 
 
 # 必要な物
-python
+python<br/>
 ibus
 
 
@@ -15,6 +15,6 @@ ibus
 
 次のコマンドを実行
 
-$ chmod u+x toggle_cursor_color.py toggle_cursor_color.sh
+$ chmod u+x toggle_cursor_color.py toggle_cursor_color.sh <br/>
 $ source .bashrc
 
